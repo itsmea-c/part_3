@@ -32,5 +32,5 @@ Trained Decision Tree Classifier with and without constraints. Calculated traini
 
    Note:
 
-    1. Python script is saved as part_3.py and placed in the repository
-    2. Cleaned data is saved as cleaned_data.csv and placed in the repository
+   1. Python script is saved as part_3.py and placed in the repository
+   2. Cleaned data is saved as cleaned_data.csv and placed in the repository
